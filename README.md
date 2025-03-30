@@ -5,6 +5,8 @@
 
 ### How It Works:  
 1. Runs in any C++ environment  
-2. Shows list of components  
+2. Shows a list of components  
 3. User types a component name  
 4. Program displays the definition  
+
+Youtube link: https://youtu.be/WbJCfy4kHXA
